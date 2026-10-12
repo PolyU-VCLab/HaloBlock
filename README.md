@@ -3,9 +3,6 @@
 # HaloBlock: Faster and Better Decoding for Diffusion Large Language Models
 
 <div align="center">
-  <a href="https://opensource.org/license/mit-0">
-    <img alt="MIT License" src="https://img.shields.io/badge/License-MIT-blue.svg">
-  </a>
   <a href="https://arxiv.org/pdf/2601.xxxxx">
     <img alt="Paper" src="https://img.shields.io/badge/Paper-arXiv-red.svg">
   </a>
