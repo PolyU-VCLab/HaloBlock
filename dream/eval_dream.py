@@ -415,8 +415,8 @@ class DreamLoRA(LM):
 
     def _create_model_and_tokenizer(self, pretrained, dtype, trust_remote_code):
         # Get correct data type
-        from model_cache.dream.model_dream import DreamModel
-        from model_cache.dream.configuration_dream import DreamConfig
+        from model_cache.model_dream import DreamModel
+        from model_cache.configuration_dream import DreamConfig
         target_dtype = get_dtype(dtype)
         
         # Load base model, using DreamModel and DreamConfig
