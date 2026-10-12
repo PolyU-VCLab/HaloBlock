@@ -1,6 +1,6 @@
 <div align="center">
 
-# HaloBlock: Faster and Better Decoding for Diffusion Large Language Models
+<h1>🚀 HaloBlock: Faster and Better Decoding for dLLMs</h1>
 
 <div align="center">
   <a href="https://arxiv.org/pdf/2601.xxxxx">
