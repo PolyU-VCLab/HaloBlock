@@ -7,7 +7,7 @@
     <img alt="MIT License" src="https://img.shields.io/badge/License-MIT-blue.svg">
   </a>
   <a href="https://arxiv.org/pdf/2601.xxxxx">
-    <img alt="Paper" src="https://img.shields.io/badge/Paper-Arxiv-darkred.svg">
+    <img alt="Paper" src="https://img.shields.io/badge/Paper-arXiv-red.svg">
   </a>
 </div>
 
