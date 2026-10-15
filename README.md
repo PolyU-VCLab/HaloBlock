@@ -3,7 +3,7 @@
 <h1>🚀 HaloBlock: Faster and Better Decoding for dLLMs</h1>
 
 <div align="center">
-  <a href="https://arxiv.org/pdf/2601.xxxxx">
+  <a href="http://arxiv.org/abs/2610.17948">
     <img alt="Paper" src="https://img.shields.io/badge/Paper-arXiv-red.svg">
   </a>
 </div>
@@ -64,7 +64,7 @@ If you find this work useful, please cite our paper:
 @Article{zheng2026haloblock,
   title={HaloBlock: Faster and Better Decoding for Diffusion Large Language Models},
   author={Zheng, Zhaohui and He, Chenhang and Zhang, Jinrui and Cheng, Ming-Ming and Zhang, Lei},
-  journal={arXiv preprint arXiv:2601.xxxxxx},
+  journal={arXiv preprint arXiv:2610.17948},
   year={2026}
 }
 ```
