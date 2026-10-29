@@ -10,7 +10,7 @@
 
 </div>
 
-Official implementation of **HaloBlock**, a training-free difficulty-aware adaptive halo mechanism for block-wise decoding in diffusion large language models (dLLMs). It mitigates the left-dominance effect and boundary contextual discontinuity in block-wise decoding, achieving better generation quality and faster inference convergence.
+Official implementation of **HaloBlock**, a training-free difficulty-aware adaptive halo mechanism for block-wise decoding in diffusion large language models (dLLMs). It mitigates the left-dominance effect and boundary contextual discontinuity in block-wise decoding, achieving better generation quality and faster inference speed.
 
 ## Installation
 
